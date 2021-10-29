@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jamie
-- 👀 I’m interested in app developemtn and machine learning.
+- 👀 I’m interested in app and software development.
 - 🌱 I’m currently learning Python and Kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: development@jrtrade.co.uk
